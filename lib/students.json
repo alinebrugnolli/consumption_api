@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Rodrigo Rahman",
+        "age": 39,    
+        "courseNames": [
+            "Academia do Flutter", 
+            "Imersão GetX"
+        ]
+    },
+    {
+        "name": "Luana Rahman",
+        "age": 38,    
+        "courseNames": [
+            "Academia do Flutter", 
+            "Imersão GetX"
+        ]
+    },
+    {
+        "name": "Guilherme Rahman",
+        "age": 38,    
+        "courseNames": [
+            "Academia do Flutter", 
+            "Imersão GetX"
+        ]
+    }
+]

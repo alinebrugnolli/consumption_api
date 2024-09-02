@@ -1,0 +1,35 @@
+{
+    "name": "Rodrigo Rahman",
+    "age": 39,    
+    "courseNames": ["Academia do Flutter", "Imersão GetX"],
+    "courses": [
+        {
+            "id": 1,
+            "name": "Academia do Flutter",
+            "isStudent": true
+        },
+
+        {
+            "id": 2,
+            "name": "Imersão GetX",
+            "isStudent": false
+        }
+    ],
+    "telephone": {
+        "ddd": 11,
+        "phoneNumber": "999050505"
+    },
+    "address": {
+        "street": "Street XYZ",
+        "number": 300,
+        "CEP": "01111222",
+        "telephone": {
+            "ddd": 11,
+            "phoneNumber": "999050505",
+            "city": {
+                "id": 1,
+                "name": "Santo André"
+            }
+    }        
+    }
+}
